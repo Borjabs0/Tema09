@@ -14,8 +14,8 @@ public class Main {
 //        ejercicio04.solicitarNumeros(array2);
 //        Ejercicio05 ejercicio05 = new Ejercicio05();
 //        Ejercicio06 ejercicio06 = new Ejercicio06();
-        Ejercicio07 ejercicio07 = new Ejercicio07();
-
+//        Ejercicio07 ejercicio07 = new Ejercicio07();
+        Ejercicio08 ejercicio08 = new Ejercicio08();
 
 
 

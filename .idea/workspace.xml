@@ -4,7 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f29f5785-d401-4b6d-91be-3f99e02fe5d5" name="Changes" comment="Commit inicial" />
+    <list default="true" id="f29f5785-d401-4b6d-91be-3f99e02fe5d5" name="Changes" comment="Commit Ejercicio07">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/borjabolufer/ejercicios/Ejercicio08.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.4/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.4/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.4/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.4/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.4/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.4/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.4/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.4/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.4/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.4/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/borjabolufer/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/borjabolufer/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/borjabolufer/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/borjabolufer/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +26,23 @@
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
     </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Tema09" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -26,9 +55,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="RESET_MODE" value="MIXED" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2f5xMyqZ15QDXHHNo95Db1bk4G4" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -41,7 +70,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "E:/1ºDAM/Programacion/Tema09/src/main/java/com/borjabolufer/ejercicios"
+    "last_opened_file_path": "E:/1ºDAM/Programacion/Tema09"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -98,7 +127,79 @@
       <option name="project" value="LOCAL" />
       <updated>1713110145712</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Commit inicial">
+      <option name="closed" value="true" />
+      <created>1713110556249</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1713110556249</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Commit ejercicio 1">
+      <option name="closed" value="true" />
+      <created>1713110594944</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1713110594944</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Commit ejercicio 2">
+      <option name="closed" value="true" />
+      <created>1713110624135</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1713110624135</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Commit ejercicio 4">
+      <option name="closed" value="true" />
+      <created>1713110690745</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1713110690745</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Commit ejercicio 5">
+      <option name="closed" value="true" />
+      <created>1713110707899</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1713110707899</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Commit ejercicio 5">
+      <option name="closed" value="true" />
+      <created>1713110726462</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1713110726462</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Commit ejercicio 6">
+      <option name="closed" value="true" />
+      <created>1713110739256</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1713110739256</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Commit LibIO">
+      <option name="closed" value="true" />
+      <created>1713110752982</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1713110752982</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Commit Ejercicio07">
+      <option name="closed" value="true" />
+      <created>1713112174169</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1713112174169</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -115,6 +216,13 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Commit de ejercicios 1,2,3,4,5,6" />
     <MESSAGE value="Commit inicial" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit inicial" />
+    <MESSAGE value="Commit ejercicio 1" />
+    <MESSAGE value="Commit ejercicio 2" />
+    <MESSAGE value="Commit ejercicio 4" />
+    <MESSAGE value="Commit ejercicio 5" />
+    <MESSAGE value="Commit ejercicio 6" />
+    <MESSAGE value="Commit LibIO" />
+    <MESSAGE value="Commit Ejercicio07" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit Ejercicio07" />
   </component>
 </project>
