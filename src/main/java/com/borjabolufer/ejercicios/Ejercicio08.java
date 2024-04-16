@@ -51,7 +51,7 @@ public class Ejercicio08 {
         System.out.println("NullPointerException\n");
         for (String cadena : array) {
             try {
-                if (!cadena.isEmpty()) {
+                if (cadena == null) {
                     System.out.println("El primer caracter de " + cadena + " es: " + cadena.charAt(0));
                 }
             } catch (NullPointerException NPE) {
