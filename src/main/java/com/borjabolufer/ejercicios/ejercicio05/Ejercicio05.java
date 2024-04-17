@@ -1,6 +1,6 @@
 package com.borjabolufer.ejercicios.ejercicio05;
 
-import com.borjabolufer.Lib.LibIO;
+import com.borjabolufer.lib.LibIO;
 
 import java.util.Arrays;
 import java.util.Scanner;

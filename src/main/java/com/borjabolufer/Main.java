@@ -2,6 +2,9 @@ package com.borjabolufer;
 
 import com.borjabolufer.ejercicios.*;
 import com.borjabolufer.ejercicios.ejercicio09.Ejercicio09;
+import com.borjabolufer.ejercicios.ejercicio10.CalcIO;
+
+import static java.awt.SystemColor.menu;
 
 
 public class Main {
@@ -17,7 +20,10 @@ public class Main {
 //        Ejercicio06 ejercicio06 = new Ejercicio06();
 //        Ejercicio07 ejercicio07 = new Ejercicio07();
 //        Ejercicio08 ejercicio08 = new Ejercicio08();
-        Ejercicio09 ejercicio09 = new Ejercicio09();
+//        Ejercicio09 ejercicio09 = new Ejercicio09();
+          CalcIO calcIO = new CalcIO(10);
+        calcIO.iniciarSimulacion();
+
 
 
     }

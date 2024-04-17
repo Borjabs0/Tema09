@@ -1,4 +1,4 @@
-package com.borjabolufer.Lib;
+package com.borjabolufer.lib;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
